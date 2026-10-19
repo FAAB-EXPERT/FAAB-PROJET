@@ -1,0 +1,246 @@
+{
+  "workflow change request en": {
+    "type": "ppt",
+    "slides": [
+      {
+        "id": 1,
+        "blocks": [
+          {
+            "type": "text",
+            "text": "Preparation"
+          },
+          {
+            "type": "text",
+            "text": "Management"
+          },
+          {
+            "type": "text",
+            "text": "Closing"
+          },
+          {
+            "type": "text",
+            "text": "Initial phase"
+          },
+          {
+            "type": "text",
+            "text": "Analysis and validation phase"
+          },
+          {
+            "type": "text",
+            "text": "Planning phase"
+          },
+          {
+            "type": "text",
+            "text": "Execution phase"
+          },
+          {
+            "type": "text",
+            "text": "Closing phase"
+          },
+          {
+            "type": "text",
+            "text": "1. Document the change request"
+          },
+          {
+            "type": "text",
+            "text": "2. Pre-validate the change request"
+          },
+          {
+            "type": "text",
+            "text": "3. Analyze impacts and risks"
+          },
+          {
+            "type": "text",
+            "text": "4. Validate the change request"
+          },
+          {
+            "type": "text",
+            "text": "5. Incorporate the change request in the planning"
+          },
+          {
+            "type": "text",
+            "text": "6. Validate the change request planning"
+          },
+          {
+            "type": "text",
+            "text": "7. Implement the change request"
+          },
+          {
+            "type": "text",
+            "text": "8. Close the change request"
+          },
+          {
+            "type": "text",
+            "text": "9. Approve the change request closing"
+          },
+          {
+            "type": "text",
+            "text": "10. Update the follow-up"
+          },
+          {
+            "type": "text",
+            "text": "Problems register"
+          },
+          {
+            "type": "text",
+            "text": "Bad idea"
+          },
+          {
+            "type": "text",
+            "text": "OK"
+          },
+          {
+            "type": "text",
+            "text": "Risk monitoring"
+          },
+          {
+            "type": "text",
+            "text": "Too many negative impacts"
+          },
+          {
+            "type": "text",
+            "text": "OK"
+          },
+          {
+            "type": "text",
+            "text": "Stakeholders"
+          },
+          {
+            "type": "text",
+            "text": "Change Manager"
+          },
+          {
+            "type": "text",
+            "text": "Change validator"
+          },
+          {
+            "type": "text",
+            "text": "Change implementer"
+          }
+        ]
+      }
+    ]
+  },
+  "workflow demande de modification fr": {
+    "type": "ppt",
+    "slides": [
+      {
+        "id": 1,
+        "blocks": [
+          {
+            "type": "text",
+            "text": "Préparation"
+          },
+          {
+            "type": "text",
+            "text": "Gestion"
+          },
+          {
+            "type": "text",
+            "text": "Clôture"
+          },
+          {
+            "type": "text",
+            "text": "Phase Initiale"
+          },
+          {
+            "type": "text",
+            "text": "Phase d’Analyse et de validation"
+          },
+          {
+            "type": "text",
+            "text": "Phase de Planification"
+          },
+          {
+            "type": "text",
+            "text": "Phase d’exécution"
+          },
+          {
+            "type": "text",
+            "text": "Phase de clôture"
+          },
+          {
+            "type": "text",
+            "text": "1. Création de la Demande de changement"
+          },
+          {
+            "type": "text",
+            "text": "2. Pré-Validation de la Demande de changement"
+          },
+          {
+            "type": "text",
+            "text": "3. Analyse des impacts et des risques "
+          },
+          {
+            "type": "text",
+            "text": "4. Validation de la Demande de changement"
+          },
+          {
+            "type": "text",
+            "text": "5. Insertion de la demande de changement dans le planning"
+          },
+          {
+            "type": "text",
+            "text": "6. Validation du planning de demande de changement"
+          },
+          {
+            "type": "text",
+            "text": "7. Exécution de la demande de changement"
+          },
+          {
+            "type": "text",
+            "text": "8. Clôture de la demande de changement"
+          },
+          {
+            "type": "text",
+            "text": "9. Approbation de la clôture de la demande de changement"
+          },
+          {
+            "type": "text",
+            "text": "10. Mise à jour du registre de suivi des CR"
+          },
+          {
+            "type": "text",
+            "text": "Registre de problèmes"
+          },
+          {
+            "type": "text",
+            "text": "Mauvaise idée"
+          },
+          {
+            "type": "text",
+            "text": "OK"
+          },
+          {
+            "type": "text",
+            "text": "Suivi des Risques"
+          },
+          {
+            "type": "text",
+            "text": "Trop d’impacts négatifs"
+          },
+          {
+            "type": "text",
+            "text": "OK"
+          },
+          {
+            "type": "text",
+            "text": "Parties prenantes"
+          },
+          {
+            "type": "text",
+            "text": "Gestionnaire de changement"
+          },
+          {
+            "type": "text",
+            "text": "Valideur des changement"
+          },
+          {
+            "type": "text",
+            "text": "Exécuteur de changement"
+          }
+        ]
+      }
+    ]
+  }
+}
